@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Lotus Temple",
+        "isClicked": false,
+        "image": "https://cdn.architecturelab.net/wp-content/uploads/2017/10/1-1068x668.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Dome of the Rock, Jerusalem",
+        "isClicked": false,
+        "image": "https://cdn.architecturelab.net/wp-content/uploads/2017/10/2-1068x773.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Cologne Cathedral",
+        "isClicked": false,
+        "image": "https://cdn.architecturelab.net/wp-content/uploads/2017/10/Cologne-Cathedral.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Casa Milà, La Pedrera, Barcelona",
+        "isClicked": false,
+        "image": "https://cdn.architecturelab.net/wp-content/uploads/2017/10/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "St. Paul’s Cathedral, London",
+        "isClicked": false,
+        "image": "https://cdn.architecturelab.net/wp-content/uploads/2017/10/5-1068x875.jpg"
+    },
+    {
+        "id": 6,
+        "name": "One World Trade Centre, New York",
+        "isClicked": false,
+        "image": "https://cdn.architecturelab.net/wp-content/uploads/2017/10/OWO-Skyline-2.0-1068x718.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Petronas Towers, Kuala Lumpur",
+        "isClicked": false,
+        "image": "https://cdn.architecturelab.net/wp-content/uploads/2017/10/7-1024x1024.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Leaning Tower of Pisa",
+        "isClicked": false,
+        "image": "https://cdn.architecturelab.net/wp-content/uploads/2017/10/9-1068x711.jpg"
+    },
+    {
+        "id": 9,
+        "name": "The White House, Washington DC",
+        "isClicked": false,
+        "image": "https://cdn.architecturelab.net/wp-content/uploads/2017/10/WhiteHouseSouthFacade-1068x791.jpg"
+    },
+    {
+        "id": 10,
+        "name": "The Shard, London",
+        "isClicked": false,
+        "image": "https://cdn.architecturelab.net/wp-content/uploads/2017/10/the-shard.jpg"
+    },
+    {
+        "id": 11,
+        "name": "The Kabba, Mecca",
+        "isClicked": false,
+        "image": "https://cdn.architecturelab.net/wp-content/uploads/2017/10/11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "St. Basil Cathedral, Moscow",
+        "isClicked": false,
+        "image": "https://cdn.architecturelab.net/wp-content/uploads/2017/10/12.jpg"
+    }
+]

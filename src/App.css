@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+html, body, #root {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
+
+.title {
+    text-align: center;
+  }
+
+body {
+  background-image:linear-gradient(rgba(0, 0, 0, 0.39), rgba(0, 0, 0, 0.699)), url("https://cdn.wallpapersafari.com/5/74/xmlfE0.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  background-position: center;
+  height: 100vh;
+  }
