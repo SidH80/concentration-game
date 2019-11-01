@@ -4,12 +4,12 @@ import "./style.css";
 function CityCard(props) {
     return (
 
-      <div
+      <div className="img-container"
           value={props.id}
           onClick={() => props.handleClick(props.id)}
         >
 
-        <div className="img-container">
+        <div>
           <img alt={props.name} src={props.image} />
       </div>
       </div>
