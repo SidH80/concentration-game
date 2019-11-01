@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Concentration-Game/static/css/main.b9408f3c.chunk.css",
+    "main.js": "/Concentration-Game/static/js/main.b36fa2ff.chunk.js",
+    "main.js.map": "/Concentration-Game/static/js/main.b36fa2ff.chunk.js.map",
+    "runtime-main.js": "/Concentration-Game/static/js/runtime-main.d90eca46.js",
+    "runtime-main.js.map": "/Concentration-Game/static/js/runtime-main.d90eca46.js.map",
+    "static/js/2.a8bd4251.chunk.js": "/Concentration-Game/static/js/2.a8bd4251.chunk.js",
+    "static/js/2.a8bd4251.chunk.js.map": "/Concentration-Game/static/js/2.a8bd4251.chunk.js.map",
+    "index.html": "/Concentration-Game/index.html",
+    "precache-manifest.0c9d2fd468d154e7e70b2144edf84ad8.js": "/Concentration-Game/precache-manifest.0c9d2fd468d154e7e70b2144edf84ad8.js",
+    "service-worker.js": "/Concentration-Game/service-worker.js",
+    "static/css/main.b9408f3c.chunk.css.map": "/Concentration-Game/static/css/main.b9408f3c.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d90eca46.js",
+    "static/js/2.a8bd4251.chunk.js",
+    "static/css/main.b9408f3c.chunk.css",
+    "static/js/main.b36fa2ff.chunk.js"
+  ]
+}
