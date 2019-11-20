@@ -69,7 +69,7 @@ class App extends Component {
     return (
       <Wrapper>
         <NavBar
-          title="City Clicky Game"
+          title="City Concentration Game"
           score={this.state.currentScore}
           topScore={this.state.topScore}
           rightWrong={this.state.rightWrong}
