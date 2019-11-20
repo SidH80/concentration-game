@@ -3,7 +3,7 @@
 The CCG is a simple take on the classic memory game. The user is presented with 12 images of iconic landmark city buildings. The goal is to click each city building image only once - the only catch is that each click will shuffle the building images!
 
 
-![Screen Shot 2019-10-30 at 10 45 16 PM]()
+![Screen Shot 2019-10-30 at 10 45 16 PM](https://user-images.githubusercontent.com/51130585/69212060-27104400-0b2e-11ea-90a9-9f60fd47acde.png)
 
 
 <h2>About the Code</h2>
